@@ -20,6 +20,7 @@ startActivityForResult(
             }
         }
 )
+```
 
 Don't forget to invoke `handleActivityResultCallback`
 ```kotlin
@@ -27,6 +28,7 @@ override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) 
     super.onActivityResult(requestCode, resultCode, data)
     handleActivityResultCallback(requestCode, resultCode, data)
 }
+```
 
 Backlog
 -----
