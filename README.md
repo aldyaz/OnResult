@@ -32,4 +32,4 @@ override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) 
 
 Backlog
 -----
- * Handler for onRequestPermissionsResult
+ * Handler for `onRequestPermissionsResult`
