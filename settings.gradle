@@ -1,2 +1,2 @@
 include ':sample'
-include ':activity-result-callback'
+include ':on-result'

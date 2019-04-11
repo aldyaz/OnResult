@@ -1,4 +1,4 @@
-package com.lib.activityresultcallback
+package com.aldyaz.lib.onresult
 
 import android.content.Intent
 

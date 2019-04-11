@@ -1,4 +1,4 @@
-package com.aldyaz.activityresultcallback
+package com.aldyaz.onresult
 
 import org.junit.Test
 

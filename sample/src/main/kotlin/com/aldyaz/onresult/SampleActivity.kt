@@ -1,13 +1,14 @@
-package com.aldyaz.activityresultcallback
+package com.aldyaz.onresult
 
 import android.app.Activity
 import android.bluetooth.BluetoothAdapter
 import android.content.Intent
 import android.os.Bundle
+import android.provider.Settings
 import android.support.v7.app.AppCompatActivity
 import android.util.Log
-import com.lib.activityresultcallback.handleActivityResultCallback
-import com.lib.activityresultcallback.startActivityForResult
+import com.aldyaz.lib.onresult.handleActivityResultCallback
+import com.aldyaz.lib.onresult.startActivityForResult
 import kotlinx.android.synthetic.main.activity_sample.*
 
 

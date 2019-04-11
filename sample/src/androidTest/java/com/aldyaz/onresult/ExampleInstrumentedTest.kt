@@ -1,4 +1,4 @@
-package com.aldyaz.activityresultcallback
+package com.aldyaz.onresult
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
